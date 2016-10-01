@@ -1,6 +1,4 @@
 # name: pirate-speak
-# about:
-# version: 0.1
+# about: A simple mock-up plugin for text conversion.
+# version: 0.2
 # authors: Régis Hanol
-
-register_asset "javascripts/pirate_speak.js", :server_side
